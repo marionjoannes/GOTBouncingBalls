@@ -1,4 +1,4 @@
-# Untitled
+# Final Project: Interactive visualization
 
 https://observablehq.com/@marionjoannes/untitled@651
 
