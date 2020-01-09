@@ -1,0 +1,14 @@
+{
+  "name": "@marionjoannes/untitled",
+  "main": "f32a2db18faf1350@651.js",
+  "version": "651.0.0",
+  "homepage": "https://observablehq.com/@marionjoannes/untitled",
+  "author": {
+    "name": "marionjoannes",
+    "url": "https://observablehq.com/@marionjoannes"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
